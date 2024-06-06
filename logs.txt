@@ -1,0 +1,20 @@
+-------------------------------------------------------------------
+Hash of start "C:\Labs\Lab08\changed_test.jpg" image: 258050b293906777cb055f8101dae43d72877f00502b0220451e5fc8eedc9486
+Hash of changed "C:\Labs\Lab08\changed_test.jpg" image: 26ccbdde23bd3f0d38a883762a40bf11052a96859cd5ed1a262f4ed0ebd9592b
+Hash is NOT equal.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Hash of start "C:\Labs\Lab08\changed_test.jpg" image: 258050b293906777cb055f8101dae43d72877f00502b0220451e5fc8eedc9486
+Hash of changed "C:\Labs\Lab08\changed_test.jpg" image: 4fe3163455097e6c1d15084b125f7ce4956c3f6c3cb50dc13b14ccc85af58fbb
+Hash is NOT equal.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Hash of start "C:\Labs\Lab08\test.jpg" image: 258050b293906777cb055f8101dae43d72877f00502b0220451e5fc8eedc9486
+Hash of changed "C:\Labs\Lab08\changed_test.jpg" image: 4fe3163455097e6c1d15084b125f7ce4956c3f6c3cb50dc13b14ccc85af58fbb
+Hash is NOT equal.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Hash of start "C:\Labs\Lab08\test.jpg" image: 258050b293906777cb055f8101dae43d72877f00502b0220451e5fc8eedc9486
+Hash of changed "C:\Labs\Lab08\changed_test.jpg" image: 6a43af2873ae51e78da1417c2bc878dcedce2f6db1c10e12aaee9303300cbf3b
+Hash is NOT equal.
+-------------------------------------------------------------------
