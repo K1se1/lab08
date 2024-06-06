@@ -9,7 +9,6 @@
 #include "hashfile.hpp"
 #include "caeser.hpp"
 
-//Блять охутельная методичка, где нихуя не написано про openssl
 
 int main()
 {
